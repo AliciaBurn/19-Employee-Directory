@@ -1,5 +1,7 @@
-.input-group {
-    margin-left: 200px;
-    margin-right: 200px;
+.input-group-mb3 {
+    padding-left: 400px;
+    padding-right: 400px;
+    /* margin-left: 200px;
+    margin-right: 200px; */
     margin-top: 10px;
 }
